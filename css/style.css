@@ -158,7 +158,7 @@ first div in the grid  and place it in the grid. */
   grid-column: 1 / span 3;
   grid-row: 1;
   background-image: url("../images/header.jpg");
-  background: cover;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
